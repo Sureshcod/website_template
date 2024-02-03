@@ -1,0 +1,93 @@
+header{
+    background-color: #EADEBE;
+}
+#brand{
+  font-weight: bold;
+  font-size: 40px;
+}
+#navbarNav{
+  font-size: 20px;
+}
+#head{
+    margin-top: 90px;
+    display:grid;
+}
+#h1{
+    font-size: 60px;
+    font-weight: 500;
+    text-align: center;
+}
+#p1{
+    text-align: center;
+    color: gray;
+    font-size: 20px;
+  
+}
+#art1{
+    text-align: center;
+    border-radius: 5%;
+    
+    color: blue;
+    background-color: white;
+
+}
+#img1{
+width:90%;
+
+display: block;
+margin-left: auto;
+margin-right: auto;
+
+}
+#sec2{
+background-color: black;
+margin-top: 20px;
+}
+.card-header{
+font-size: 2rem; /* Adjust the size as needed */
+border-radius: 50%; /* Apply border radius to make it circular */
+padding: 10px; /* Optional: Add padding for space around the icon */
+background-color: #dcb2b2; 
+}
+#sec2{
+color: white;
+}
+#sec2cards{
+
+padding:90px;
+}
+#sec3{
+padding: 30px;
+}
+#display1{
+display: grid;
+grid-template-columns: 4fr 8fr;
+}
+.custom-card{
+max-height: 500px;
+}
+.custom-card .card-img{
+height: 100%;
+object-fit: cover;
+}
+footer{
+height: 400px;
+background-color: #EADEBE;
+}
+#foot{
+font-size: 20px;
+font-weight: bold;
+}
+#footlinks{
+
+font-size: large;
+margin-left: 250px;
+color: black;
+list-style-type: none;
+}
+#link{
+text-decoration: none;
+font-size: large;
+margin-left: 10px;
+color: black;
+}
